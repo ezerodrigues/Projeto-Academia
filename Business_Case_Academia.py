@@ -35,5 +35,5 @@ pdf.text(10, 50, f'IMC: {calculo:.2f}')
 
 # Salvando o PDF
 
-pdf.output("Orçamento.pdf")
-print("Orçamento gerado com sucesso!")
+pdf.output("Ficha Aluno.pdf")
+print("Dados gerados com sucesso!")
